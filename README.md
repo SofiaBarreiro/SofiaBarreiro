@@ -1,8 +1,15 @@
 
 
-<center><h4 style="color: rgb(12, 56, 6);">Hi there, Welcome to GitHub Profile ,  my name is Sofia Barreiro and i am junior software developer 👋</h4></center>
+<center><h4 style="color: rgb(12, 56, 6);">Hi there, Welcome to my GitHub Profile ,  my name is Sofia Barreiro and i am junior software developer 👋</h4></center>
 
 
+
+<center>If you need help: I avaible to share my projects with you. Just let me your ✨ and follow me! </center>
+
+<p>💬 Ask me about:</p>
+<p>- Sharepoint online </p>
+<p>- .NET</p>
+<p>- Javascript</p>
 
 
 <!--
