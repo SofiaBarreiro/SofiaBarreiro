@@ -1,4 +1,7 @@
-### Hi there my name is Sofia Barreiro and i am junior software developer 👋
+
+
+<center>### Hi there, Welcome to GitHub Profile ,  my name is Sofia Barreiro and i am junior software developer 👋</center>
+
 
 <!--
 **SofiaBarreiro/SofiaBarreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
