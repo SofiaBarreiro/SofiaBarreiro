@@ -1,6 +1,8 @@
 
 
-<center>### Hi there, Welcome to GitHub Profile ,  my name is Sofia Barreiro and i am junior software developer 👋</center>
+<center><h4 style="color: rgb(12, 56, 6);">Hi there, Welcome to GitHub Profile ,  my name is Sofia Barreiro and i am junior software developer 👋</h4></center>
+
+
 
 
 <!--
