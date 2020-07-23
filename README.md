@@ -4,7 +4,7 @@
 
 
 
-<center>If you need help: I avaible to share my projects with you. Just let me your ✨ and follow me! </center>
+<center>If you need help: I available to share my projects with you. Just let me your ✨ and follow me! </center>
 
 <p>💬 Ask me about:</p>
 <p>- Sharepoint online </p>
